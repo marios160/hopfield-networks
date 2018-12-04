@@ -1,0 +1,8 @@
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\bin\Release\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\bin\Release\AIF.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Release\ResolveAssemblyReference.cache
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Release\AIF.Resources.ErrorMessages.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Release\GenerateResource.read.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Release\GenerateResource.write.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Release\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Release\AIF.pdb

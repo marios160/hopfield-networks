@@ -1,0 +1,100 @@
+Raport z badaniaRozwiązanie zadania 1, autor: Mateusz Błaszczak
+Macierz wag:
+{0}0,0	1,0	2,0
+1,0	0,0	-1,0
+2,0	-1,0	0,0
+
+Badanie wektora V(0):
+-1,0
+-1,0
+-1,0
+
+Krok nr 1
+Potencjał wejściowy U(1):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(1):
+-1,0
+-1,0
+-1,0
+
+Krok nr 2
+Potencjał wejściowy U(2):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(2):
+-1,0
+-1,0
+-1,0
+
+Krok nr 3
+Potencjał wejściowy U(3):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(3):
+-1,0
+-1,0
+-1,0
+
+Krok nr 4
+Potencjał wejściowy U(4):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(4):
+-1,0
+-1,0
+-1,0
+
+Krok nr 5
+Potencjał wejściowy U(5):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(5):
+-1,0
+-1,0
+-1,0
+
+Krok nr 6
+Potencjał wejściowy U(6):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(6):
+-1,0
+-1,0
+-1,0
+
+Krok nr 7
+Potencjał wejściowy U(7):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(7):
+-1,0
+-1,0
+-1,0
+
+Krok nr 8
+Potencjał wejściowy U(8):
+-3,0
+0,0
+-1,0
+
+Potencjał wyjściowy U(8):
+-1,0
+-1,0
+-1,0
+
+

@@ -1,0 +1,42 @@
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.exe.config
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.exe
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Test\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Test\AIF.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\ResolveAssemblyReference.cache
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\DMU.Samples.Hopfield.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.Properties.Resources.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\DMU.Samples.Main.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\GenerateResource.read.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\GenerateResource.write.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.exe
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\GenerateResource-cvtres.read.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Test\GenerateResource-cvtres.write.1.tlog
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.exe.config
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.exe
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.pdb
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.exe
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.pdb
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\bin\Test\AIF.dll
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\bin\Test\AIF.pdb
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\obj\Test\DMU.TestGui.csprojResolveAssemblyReference.cache
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\obj\Test\DMU.Samples.Hopfield.resources
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.Properties.Resources.resources
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\obj\Test\DMU.Samples.Main.resources
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.TestGui\obj\Test\DMU.TestGui.csproj.GenerateResource.Cach
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.exe.config
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.exe
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.pdb
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\bin\Test\AIF.dll
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\bin\Test\AIF.pdb
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\obj\Test\DMU.TestGui.csprojResolveAssemblyReference.cache
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\obj\Test\DMU.Samples.HopfieldRec.resources
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.Properties.Resources.resources
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\obj\Test\DMU.Samples.Main.resources
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\obj\Test\DMU.TestGui.csproj.GenerateResource.Cache
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.exe
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.pdb
+D:\mblaszczak\Hopfield Network\DMU.TestGui\bin\Test\AIF.Samples.exe.config
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.exe
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Test\AIF.Samples.pdb

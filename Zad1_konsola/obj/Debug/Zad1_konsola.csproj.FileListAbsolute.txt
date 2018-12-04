@@ -1,0 +1,8 @@
+D:\mblaszczak\Hopfield Network\Zad1_konsola\bin\Debug\Zad1_konsola.exe.config
+D:\mblaszczak\Hopfield Network\Zad1_konsola\bin\Debug\Zad1_konsola.exe
+D:\mblaszczak\Hopfield Network\Zad1_konsola\bin\Debug\Zad1_konsola.pdb
+D:\mblaszczak\Hopfield Network\Zad1_konsola\bin\Debug\AIF.dll
+D:\mblaszczak\Hopfield Network\Zad1_konsola\bin\Debug\AIF.pdb
+D:\mblaszczak\Hopfield Network\Zad1_konsola\obj\Debug\Zad1_konsola.csprojResolveAssemblyReference.cache
+D:\mblaszczak\Hopfield Network\Zad1_konsola\obj\Debug\Zad1_konsola.exe
+D:\mblaszczak\Hopfield Network\Zad1_konsola\obj\Debug\Zad1_konsola.pdb

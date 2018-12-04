@@ -1,0 +1,38 @@
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.exe.config
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.exe
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.pdb
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.dll
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.pdb
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\DMU.Samples.Hopfield.resources
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.Properties.Resources.resources
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\DMU.Samples.Main.resources
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.exe
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.exe.config
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.exe
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.exe
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Debug\AIF.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\DMU.Samples.Hopfield.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.Properties.Resources.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\DMU.Samples.Main.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Debug\GenerateResource.write.1.tlog
+D:\mblaszczak\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.exe.config
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.exe
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.pdb
+D:\mblaszczak\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.exe
+D:\mblaszczak\Hopfield Network\DMU.TestGui\bin\Debug\AIF.Samples.pdb
+D:\mblaszczak\Hopfield Network\DMU.TestGui\bin\Debug\AIF.dll
+D:\mblaszczak\Hopfield Network\DMU.TestGui\bin\Debug\AIF.pdb
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Debug\DMU.TestGui.csprojResolveAssemblyReference.cache
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Debug\DMU.Samples.HopfieldRec.resources
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Debug\AIF.Samples.Properties.Resources.resources
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Debug\DMU.Samples.Main.resources
+D:\mblaszczak\Hopfield Network\DMU.TestGui\obj\Debug\DMU.TestGui.csproj.GenerateResource.Cache

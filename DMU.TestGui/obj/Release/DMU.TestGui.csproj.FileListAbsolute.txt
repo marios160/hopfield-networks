@@ -1,0 +1,13 @@
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Release\AIF.Samples.exe.config
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Release\AIF.Samples.exe
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Release\AIF.Samples.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Release\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\bin\Release\AIF.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\ResolveAssemblyReference.cache
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\DMU.Samples.Hopfield.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\AIF.Samples.Properties.Resources.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\DMU.Samples.Main.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\GenerateResource.read.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\GenerateResource.write.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\AIF.Samples.exe
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.TestGui\obj\Release\AIF.Samples.pdb

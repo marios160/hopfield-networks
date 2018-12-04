@@ -1,0 +1,23 @@
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\bin\Debug\AIF.dll
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\bin\Debug\AIF.pdb
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.Resources.ErrorMessages.resources
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.dll
+C:\Documents and Settings\18614\Desktop\Code\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\bin\Debug\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\bin\Debug\AIF.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.Resources.ErrorMessages.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.pdb
+D:\mblaszczak\Hopfield Network\DMU.Hopfield\bin\Debug\AIF.dll
+D:\mblaszczak\Hopfield Network\DMU.Hopfield\bin\Debug\AIF.pdb
+D:\mblaszczak\Hopfield Network\DMU.Hopfield\obj\Debug\DMU.Hopfield.csprojResolveAssemblyReference.cache
+D:\mblaszczak\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.Resources.ErrorMessages.resources
+D:\mblaszczak\Hopfield Network\DMU.Hopfield\obj\Debug\DMU.Hopfield.csproj.GenerateResource.Cache
+D:\mblaszczak\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.dll
+D:\mblaszczak\Hopfield Network\DMU.Hopfield\obj\Debug\AIF.pdb

@@ -1,0 +1,42 @@
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\bin\Test\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\bin\Test\AIF.pdb
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Test\ResolveAssemblyReference.cache
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Test\AIF.Resources.ErrorMessages.resources
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Test\GenerateResource.read.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Test\GenerateResource.write.1.tlog
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Test\AIF.dll
+C:\Users\john\Documents\My Dropbox\MSc\Modules\Applied Computaional Intelligence\Assignment\Code\Hopfield Network\DMU.Hopfield\obj\Test\AIF.pdb
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.Hopfield\bin\Test\AIF.dll
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.Hopfield\bin\Test\AIF.pdb
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.Hopfield\obj\Test\AIF.Resources.ErrorMessages.resources
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csproj.GenerateResource.Cache
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.Hopfield\obj\Test\AIF.dll
+C:\Users\John Newcombe\Dropbox\TFS\Web\johnnewcombe.net\WebUI_Mvc4\Content\Files\Hopfield_VS2010_Solution\Hopfield Network\DMU.Hopfield\obj\Test\AIF.pdb
+D:\STUDIA\II stopień\Zaawansowane metody sztucznej inteligencji\Hopfield Network\DMU.Hopfield\bin\Test\AIF.dll
+D:\STUDIA\II stopień\Zaawansowane metody sztucznej inteligencji\Hopfield Network\DMU.Hopfield\bin\Test\AIF.pdb
+D:\STUDIA\II stopień\Zaawansowane metody sztucznej inteligencji\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csprojResolveAssemblyReference.cache
+D:\STUDIA\II stopień\Zaawansowane metody sztucznej inteligencji\Hopfield Network\DMU.Hopfield\obj\Test\AIF.Resources.ErrorMessages.resources
+D:\STUDIA\II stopień\Zaawansowane metody sztucznej inteligencji\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csproj.GenerateResource.Cache
+D:\STUDIA\II stopień\Zaawansowane metody sztucznej inteligencji\Hopfield Network\DMU.Hopfield\obj\Test\AIF.dll
+D:\STUDIA\II stopień\Zaawansowane metody sztucznej inteligencji\Hopfield Network\DMU.Hopfield\obj\Test\AIF.pdb
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Materiały\wersje projektu\Hopfield Network\DMU.Hopfield\bin\Test\AIF.dll
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Materiały\wersje projektu\Hopfield Network\DMU.Hopfield\bin\Test\AIF.pdb
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Materiały\wersje projektu\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csprojResolveAssemblyReference.cache
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Materiały\wersje projektu\Hopfield Network\DMU.Hopfield\obj\Test\AIF.Resources.ErrorMessages.resources
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Materiały\wersje projektu\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csproj.GenerateResource.Cache
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Materiały\wersje projektu\Hopfield Network\DMU.Hopfield\obj\Test\AIF.dll
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Materiały\wersje projektu\Hopfield Network\DMU.Hopfield\obj\Test\AIF.pdb
+C:\Users\rzkrystyna\Desktop\Hopfield Network\DMU.Hopfield\bin\Test\AIF.dll
+C:\Users\rzkrystyna\Desktop\Hopfield Network\DMU.Hopfield\bin\Test\AIF.pdb
+C:\Users\rzkrystyna\Desktop\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csprojResolveAssemblyReference.cache
+C:\Users\rzkrystyna\Desktop\Hopfield Network\DMU.Hopfield\obj\Test\AIF.Resources.ErrorMessages.resources
+C:\Users\rzkrystyna\Desktop\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csproj.GenerateResource.Cache
+C:\Users\rzkrystyna\Desktop\Hopfield Network\DMU.Hopfield\obj\Test\AIF.dll
+C:\Users\rzkrystyna\Desktop\Hopfield Network\DMU.Hopfield\obj\Test\AIF.pdb
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.Hopfield\bin\Test\AIF.dll
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.Hopfield\bin\Test\AIF.pdb
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csprojResolveAssemblyReference.cache
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.Hopfield\obj\Test\AIF.Resources.ErrorMessages.resources
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.Hopfield\obj\Test\DMU.Hopfield.csproj.GenerateResource.Cache
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.Hopfield\obj\Test\AIF.dll
+D:\PRACA\Zaawansowane metody sztucznej inteligencji\Projekty dla studentów\Hopfield Network\DMU.Hopfield\obj\Test\AIF.pdb
